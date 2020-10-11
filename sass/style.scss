@@ -1,0 +1,21 @@
+/*
+Theme Name: Top Tee - WP WooCommerce Theme
+Theme URI: #
+Author: Aaron Yates
+Author URI: https://yourlocaldev.com
+Description: Temp
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+@import 'abstracts/vairables';
+@import 'abstracts/functions';
+@import 'abstracts/mixins';
+
+@import 'base/typography';
+
+@import 'components/buttons';
+
+@import 'layout/navigation';
+@import 'layout/header';
+@import 'layout/footer';
